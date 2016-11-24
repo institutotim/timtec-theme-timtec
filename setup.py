@@ -19,7 +19,7 @@ def get_version(*file_paths):
         return version_match.group(1)
     raise RuntimeError('Unable to find version string.')
 
-version = get_version('timtec', '__init__.py')
+version = get_version('timtec_theme', '__init__.py')
 
 if sys.argv[-1] == 'publish':
     try:
@@ -42,7 +42,7 @@ readme = open('README.md').read()
 history = open('HISTORY.md').read().replace('.. :changelog:', '')
 
 setup(
-    name='timtec',
+    name='timtec-theme-timtec',
     version=version,
     description="""Timtec Theme Timtec""",
     long_description=readme + '\n\n' + history,
@@ -50,7 +50,7 @@ setup(
     author_email='moa.moda@gmail.com',
     url='https://github.com/institutotim/timtec-theme-timtec',
     packages=[
-        'timtec',
+        'timtec_theme',
     ],
     include_package_data=True,
     install_requires=[],
