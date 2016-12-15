@@ -1,0 +1,4 @@
+include LICENSE
+include README.md
+recursive-include timtec_theme/static *
+recursive-include timtec_theme/templates *
