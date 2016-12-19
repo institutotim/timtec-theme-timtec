@@ -85,6 +85,32 @@
                     }
                 }
             }
+            .messages {
+                background-color: rgba(0, 116, 190, 0.7);
+
+                li a {
+                    color: #ffffff;
+                    padding: 10px 15px;
+                    border-bottom: 1px solid #BBBBBB;
+
+                    .title {
+                        font-size: 10pt;
+                        font-weight: bold;
+                        text-transform: uppercase;
+
+                        i {
+                            margin-right: 4px;
+                        }
+                    }
+                    .course {
+                        font-size: 8pt
+                    }
+
+                    &.read {
+                        background-color: rgba(193, 224, 244, 0.95);
+                    }
+                }
+            }
         }
         @media (min-width: @screen-md-min) {
             float: left;
@@ -258,5 +284,3 @@
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
     background-color: #0d4c8f;
 }
-
-
