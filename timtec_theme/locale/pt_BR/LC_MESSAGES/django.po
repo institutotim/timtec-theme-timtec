@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 23:50+0000\n"
+"PO-Revision-Date: 2017-02-13 21:54-0200\n"
+"Last-Translator: Administrador TIMTec <timtectimtec@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Translated-Using: django-rosetta 0.7.6\n"
+
+#: templates/_admin_header_inline.html:6
+msgid "Receipt Settings"
+msgstr "Configurações de certificado"
+
+#: templates/_go-to-course-button-inline.html:19
+#: templates/_go-to-course-button-inline.html:20
+#, python-format
+msgid " This course starts on %(start_date)s and you are already subscribed"
+msgstr "Este curso começa em %(start_date)s e você já está inscrito"
+
+#: templates/_go-to-course-button-inline.html:21
+#: templates/_go-to-course-button-inline.html:25
+msgid "Go to course"
+msgstr "Ir para curso"
+
+#: templates/_go-to-course-button-inline.html:27
+msgid "Subscribe"
+msgstr "Inscrever"
+
+#: templates/account/login_modal.html:10
+msgid "You need to sign in or up to see this content"
+msgstr "Você precisa se logar para ver este conteúdo"
+
+#: templates/account/login_modal.html:18 templates/account/login_modal.html:49
+msgid "Sign In"
+msgstr "Entrar"
+
+#: templates/account/login_modal.html:24
+msgid "Login"
+msgstr "Entrar"
+
+#: templates/account/login_modal.html:27
+msgid "E-mail or login"
+msgstr "E-mail ou nome de usuário"
+
+#: templates/account/login_modal.html:34 templates/account/login_modal.html:36
+#: templates/account/signup.html:174 templates/account/signup.html.py:310
+msgid "Password"
+msgstr "Senha"
+
+#: templates/account/login_modal.html:43
+msgid "Forgot my password"
+msgstr "Esqueci minha senha"
+
+#: templates/account/login_modal.html:64
+msgid "Signup"
+msgstr "Cadastrar-se"
+
+#: templates/account/signup.html:74 templates/account/signup.html.py:198
+#: templates/account/signup.html:225 templates/account/signup.html.py:333
+msgid "Sign Up"
+msgstr "Cadastrar-se"
+
+#: templates/account/signup.html:154 templates/account/signup.html.py:156
+#: templates/account/signup.html:290 templates/account/signup.html.py:292
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: templates/account/signup.html:164 templates/account/signup.html.py:300
+msgid "E-mail"
+msgstr "E-mail"
+
+#: templates/account/signup.html:166
+msgid "Your e-mail"
+msgstr "Seu e-mail"
+
+#: templates/account/signup.html:176 templates/account/signup.html.py:312
+msgid "Really strong password"
+msgstr "Senha realmente forte"
+
+#: templates/account/signup.html:177 templates/account/signup.html.py:313
+msgid "Password confirmation"
+msgstr "Confirmação de senha"
+
+#: templates/account/signup.html:190 templates/account/signup.html.py:325
+#, python-format
+msgid "I agree to the <a href=\"%(terms_url)s\" target=\"_blank\">Terms of Use</a>"
+msgstr ""
+"Eu concordo com os <a href=\"%(terms_url)s\" target=\"_blank\">Termos de "
+"uso</a>"
+
+#: templates/account/signup.html:340
+msgid "Facebook connect"
+msgstr "Conectar com Facebook"
+
+#: templates/header.html:10
+msgid "Instituto TIM"
+msgstr "Instituto Tim"
+
+#: templates/header.html:11
+msgid "About"
+msgstr "Sobre"
+
+#: templates/header.html:12
+msgid "Contact"
+msgstr "Contato"
+
+#: templates/header.html:13
+msgid "Courses"
+msgstr "Cursos"
+
+#: templates/header.html:17
+msgid "Messages"
+msgstr "Mensagens"
+
+#: templates/header.html:43
+msgid "My area"
+msgstr "Minha área"
+
+#: templates/header.html:47
+msgid "Profile"
+msgstr "Perfil"
+
+#: templates/header.html:48
+msgid "Edit Profile and Account Settings"
+msgstr "Editar perfil e configurações de conta"
+
+#: templates/header.html:49
+msgid "My Courses"
+msgstr "Meus cursos"
+
+#: templates/header.html:50
+msgid "My Notes"
+msgstr "Minhas notas"
+
+#: templates/header.html:51
+msgid "Logout"
+msgstr "Sair"
+
+#: templates/home.html:40
+msgid "Organize courses"
+msgstr "Organizar cursos"
+
+#: templates/home.html:42
+msgid "Choose home courses"
+msgstr "Escolha os cursos da página inicial"
+
+#: templates/home.html:43 templates/home.html.py:204
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/home.html:44
+msgid "Save"
+msgstr "Salvar"
+
+#: templates/home.html:85
+msgid "Soon"
+msgstr "Em breve"
+
+#: templates/home.html:103
+msgid "All courses"
+msgstr "Todos os cursos"
+
+#: templates/home.html:185
+msgid "Edit home courses"
+msgstr "Editar cursos da página inicial"
+
+#: templates/user-courses.html:5
+msgid "My Receipts"
+msgstr "Meus certificados"
