@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-13 23:50+0000\n"
+"POT-Creation-Date: 2017-02-19 14:53+0000\n"
 "PO-Revision-Date: 2017-02-13 21:54-0200\n"
 "Last-Translator: Administrador TIMTec <timtectimtec@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,7 +95,8 @@ msgstr "Confirmação de senha"
 
 #: templates/account/signup.html:190 templates/account/signup.html.py:325
 #, python-format
-msgid "I agree to the <a href=\"%(terms_url)s\" target=\"_blank\">Terms of Use</a>"
+msgid ""
+"I agree to the <a href=\"%(terms_url)s\" target=\"_blank\">Terms of Use</a>"
 msgstr ""
 "Eu concordo com os <a href=\"%(terms_url)s\" target=\"_blank\">Termos de "
 "uso</a>"
