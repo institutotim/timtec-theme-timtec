@@ -144,8 +144,8 @@ home
                 <h3>Próximos <span>lançamentos</span></h3>
                 <div class="slider" ng-if="upcoming_courses.length>3">
                     {% verbatim %}
-                    <carousel>
-                        <slide ng-repeat="row in upcoming_courses_rows_3">
+                    <uib-carousel>
+                        <uib-slide ng-repeat="row in upcoming_courses_rows_3">
                             <div class="col-lg-4 col-md-4" ng-repeat="course in row">
                                 <a ng-href="/course/{{ course.slug }}/intro">
                                     <div class="col-lg-6 col-md-6">
@@ -156,8 +156,8 @@ home
                                     <h4 class="col-lg-6 col-md-6">{{ course.name }}</h4>
                                 </a>
                             </div>
-                        </slide>
-                    </carousel>
+                        </uib-slide>
+                    </uib-carousel>
                     {% endverbatim %}
                 </div>
                 <div class="slider" ng-if="upcoming_courses.length<4">
