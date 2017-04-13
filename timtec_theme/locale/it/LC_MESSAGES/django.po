@@ -9,185 +9,183 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-04-13 17:57-0300\n"
-"PO-Revision-Date: 2017-04-13 19:01-0300\n"
-"Last-Translator: Administrador TIMTec <timtectimtec@gmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Translated-Using: django-rosetta 0.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/_admin_header_inline.html:6
 msgid "Receipt Settings"
-msgstr "Configurações de comprovante"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/_go-to-course-button-inline.html:19
 #: themes/timtec-theme-timtec/timtec_theme/templates/_go-to-course-button-inline.html:20
 #, python-format
 msgid " This course starts on %(start_date)s and you are already subscribed"
-msgstr "Este curso começa em %(start_date)s e você já está inscrito"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/_go-to-course-button-inline.html:21
 #: themes/timtec-theme-timtec/timtec_theme/templates/_go-to-course-button-inline.html:25
 msgid "Go to course"
-msgstr "Ir para curso"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/_go-to-course-button-inline.html:27
 msgid "Subscribe"
-msgstr "Inscrever"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:10
 msgid "You need to sign in or up to see this content"
-msgstr "Você precisa se logar para ver este conteúdo"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:18
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:49
 msgid "Sign In"
-msgstr "Entrar"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:24
 msgid "Login"
-msgstr "Entrar"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:27
 msgid "E-mail or login"
-msgstr "E-mail ou nome de usuário"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:34
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:36
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:174
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:310
 msgid "Password"
-msgstr "Senha"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:43
 msgid "Forgot my password"
-msgstr "Esqueci minha senha"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/login_modal.html:64
 msgid "Signup"
-msgstr "Cadastrar-se"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:74
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:198
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:225
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:333
 msgid "Sign Up"
-msgstr "Cadastrar-se"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:154
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:156
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:290
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:292
 msgid "Username"
-msgstr "Nome de usuário"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:164
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:300
 msgid "E-mail"
-msgstr "E-mail"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:166
 msgid "Your e-mail"
-msgstr "Seu e-mail"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:176
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:312
 msgid "Really strong password"
-msgstr "Senha realmente forte"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:177
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:313
 msgid "Password confirmation"
-msgstr "Confirmação de senha"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:190
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:325
 #, python-format
-msgid "I agree to the <a href=\"%(terms_url)s\" target=\"_blank\">Terms of Use</a>"
+msgid ""
+"I agree to the <a href=\"%(terms_url)s\" target=\"_blank\">Terms of Use</a>"
 msgstr ""
-"Eu concordo com os <a href=\"%(terms_url)s\" target=\"_blank\">Termos de "
-"uso</a>"
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/account/signup.html:340
 msgid "Facebook connect"
-msgstr "Conectar com Facebook"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:10
 msgid "Instituto TIM"
-msgstr "Instituto Tim"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:11
 msgid "About"
-msgstr "Sobre"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:12
 msgid "Contact"
-msgstr "Contato"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:13
 msgid "Courses"
-msgstr "Cursos"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:17
 msgid "Messages"
-msgstr "Mensagens"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:43
 msgid "My area"
-msgstr "Minha área"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:47
 msgid "Profile"
-msgstr "Perfil"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:48
 msgid "Edit Profile and Account Settings"
-msgstr "Editar perfil e configurações de conta"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:49
 msgid "My Courses"
-msgstr "Meus cursos"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:50
 msgid "My Notes"
-msgstr "Minhas notas"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/header.html:51
 msgid "Logout"
-msgstr "Sair"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:40
 msgid "Organize courses"
-msgstr "Organizar cursos"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:42
 msgid "Choose home courses"
-msgstr "Escolha os cursos da página inicial"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:43
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:204
 msgid "Cancel"
-msgstr "Cancelar"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:44
 msgid "Save"
-msgstr "Salvar"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:85
 msgid "Soon"
-msgstr "Em breve"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:103
 msgid "All courses"
-msgstr "Todos os cursos"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/home.html:185
 msgid "Edit home courses"
-msgstr "Editar cursos da página inicial"
+msgstr ""
 
 #: themes/timtec-theme-timtec/timtec_theme/templates/user-courses.html:5
 msgid "My Receipts"
-msgstr "Meus Comprovantes"
+msgstr ""
