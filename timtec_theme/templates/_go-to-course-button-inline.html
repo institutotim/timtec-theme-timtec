@@ -21,7 +21,7 @@
                                 <button class="btn btn-lg btn-block btn-default" ng-disabled="true">{% trans "Go to course" %}</button>
                             </div>
                         {% else %} {# user is not enrolled #}
-                            {% if course.has_started %}
+                            {% if course.has_started and course.public_lessons %}
                                 <a href="{% url "enroll_course" course.slug %}" class="btn btn-lg btn-danger col-xs-12 js-login-required uppercase">{% trans "Go to course" %}</a>
                             {% else %}
                                 <a href="{% url "enroll_course" course.slug %}" class="btn btn-lg btn-danger col-xs-12 js-login-required uppercase">{% trans "Subscribe" %}</a>
